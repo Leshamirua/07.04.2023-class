@@ -41,9 +41,6 @@ namespace _07._04._2023_class
             int progressBarValue = numWords;
             progressBar1.Value = progressBarValue;
             read.Close();
-            
-            
-
         }
     }
 }
